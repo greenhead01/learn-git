@@ -37,3 +37,9 @@ master 修改 readme.txt
 使用手动合并，：the question is modfiy
 
 分之三
+
+
+feature2
+
+
+ggggg feature2 hebingdao feature1
