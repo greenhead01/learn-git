@@ -1,0 +1,8 @@
+使用git开发与管理项目：
+mkdir test
+git init
+本地仓库和远程仓库链接：使用ssh密钥链接：git remote add origin **//ssh链接在GitHub对应的仓库。
+出现问题：ssh denied 重新生成密钥绑定， 还有可以本地分支和远程分支没有绑定。
+可以参考master中的readme.txt中的链接解决问题。
+绑定完成后：
+git pull更新代码，开始开发。
