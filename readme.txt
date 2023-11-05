@@ -27,4 +27,11 @@ https://blog.csdn.net/xxwwh/article/details/119841089
 //新建分支进行修改：
 creating a new branch is quick
 
+<<<<<<< HEAD
 master 修改 readme.txt
+=======
+分支二
+>>>>>>> feature1
+
+解决合并冲突问题：
+使用手动合并，：the question is modfiy
