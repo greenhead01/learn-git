@@ -6,3 +6,7 @@ git init
 可以参考master中的readme.txt中的链接解决问题。
 绑定完成后：
 git pull更新代码，开始开发。
+
+合并分支： git merge ** //合并分支到到这
+提交主分支： git push origin master  
+提交分分支： git push origin **
